@@ -1,0 +1,2 @@
+-r requirements_streamlit_askrindo.txt
+pytest>=8.0
